@@ -1,11 +1,9 @@
-/* 기본 스타일 */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* 네비게이션 스타일 */
 .nav_bar {
     display: flex;
     justify-content: space-between;
