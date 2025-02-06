@@ -32,7 +32,6 @@
     font-size: 1rem;
 }
 
-/* 영화 카드 스타일 */
 .Container_main {
     display: flex;
     flex-wrap: wrap;
